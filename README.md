@@ -1,6 +1,6 @@
 We received the data from **Help International NGO** that works for providing aid in countries which are in dire need of
 Aid, Since the funding, is limited the CEO wants us to analyze and determine the top countries for priority Aid. Our Analysis
-starts with the basic step i.e reading data, cleaning it, checking if data is incorrect form then we moved on to the EDA
+starts with the basic step i.e reading data, cleaning it, checking if data is in correct form then we moved on to the EDA
 part where we did Univariate analysis and detected the outliers in all the columns, we handled them by capping
 upper and lower limits. After that, we analyzed the heatmap and found the top correlation in variables.
 After checking the clustering tendency by Hopkins test we moved on to the model building. The first step is to scale the data
